@@ -1,0 +1,23 @@
+{
+  "name": "@aikosia/api-cache",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a1kos1a/api-cache.git"
+  },
+  "author": "aikosia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a1kos1a/api-cache/issues"
+  },
+  "homepage": "https://github.com/a1kos1a/api-cache#readme",
+  "dependencies": {
+    "fs-extra": "^9.1.0"
+  }
+}
